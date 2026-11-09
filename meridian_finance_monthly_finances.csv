@@ -1,0 +1,43 @@
+month,department_name,account_category,actual,budget,dollar_variance,percent_variance
+2026-01,General & Administrative,Operating Expense,407943.85,100363.95,307579.9,306.46
+2026-02,General & Administrative,Operating Expense,385825.05,98581.59,287243.46,291.38
+2026-03,General & Administrative,Operating Expense,357855.01,99184.53,258670.48,260.8
+2026-04,General & Administrative,Operating Expense,269644.76,98270.37,171374.39,174.39
+2026-05,General & Administrative,Operating Expense,500666.33,98636.37,402029.96,407.59
+2026-06,General & Administrative,Operating Expense,365378.4,99836.38,265542.02,265.98
+2026-07,General & Administrative,Operating Expense,309348.77,97653.5,211695.27,216.78
+2026-01,Operations,COGS,186862.03,185668.88,1193.15,0.64
+2026-02,Operations,COGS,138297.09,188077.53,-49780.44,-26.47
+2026-03,Operations,COGS,114702.88,190139.47,-75436.59,-39.67
+2026-04,Operations,COGS,132139.22,194281.87,-62142.65,-31.99
+2026-05,Operations,COGS,103618.07,187162.56,-83544.49,-44.64
+2026-06,Operations,COGS,172159.84,188754.47,-16594.63,-8.79
+2026-07,Operations,COGS,213265.65,187214.71,26050.94,13.92
+2026-01,Operations,Operating Expense,240629.61,147429.18,93200.43,63.22
+2026-02,Operations,Operating Expense,128323.46,147996.29,-19672.83,-13.29
+2026-03,Operations,Operating Expense,191969.88,148203.37,43766.51,29.53
+2026-04,Operations,Operating Expense,248854.52,146429.81,102424.71,69.95
+2026-05,Operations,Operating Expense,271312.12,147163.89,124148.23,84.36
+2026-06,Operations,Operating Expense,179219.25,146547.12,32672.13,22.29
+2026-07,Operations,Operating Expense,278027.5,147511.28,130516.22,88.48
+2026-01,Research & Development,Operating Expense,453366.19,77598.28,375767.91,484.25
+2026-02,Research & Development,Operating Expense,499227.19,76328.81,422898.38,554.05
+2026-03,Research & Development,Operating Expense,367763.07,80086.83,287676.24,359.21
+2026-04,Research & Development,Operating Expense,389051.83,77201.41,311850.42,403.94
+2026-05,Research & Development,Operating Expense,298844.42,76801.25,222043.17,289.11
+2026-06,Research & Development,Operating Expense,590787.32,79374.3,511413.02,644.31
+2026-07,Research & Development,Operating Expense,435934.11,79726.61,356207.5,446.79
+2026-01,Sales & Marketing,Operating Expense,134492.13,40807.6,93684.53,229.58
+2026-02,Sales & Marketing,Operating Expense,164594.56,40089.25,124505.31,310.57
+2026-03,Sales & Marketing,Operating Expense,248000.87,38918.51,209082.36,537.23
+2026-04,Sales & Marketing,Operating Expense,126594.98,40124.96,86470.02,215.5
+2026-05,Sales & Marketing,Operating Expense,104253.71,40260.23,63993.48,158.95
+2026-06,Sales & Marketing,Operating Expense,189510.75,40623.11,148887.64,366.51
+2026-07,Sales & Marketing,Operating Expense,193142.04,40304.07,152837.97,379.21
+2026-01,Sales & Marketing,Revenue,305421.48,80183.65,225237.83,280.9
+2026-02,Sales & Marketing,Revenue,266247.4,79300.34,186947.06,235.75
+2026-03,Sales & Marketing,Revenue,359139.68,77946.6,281193.08,360.75
+2026-04,Sales & Marketing,Revenue,327999.6,79751.5,248248.1,311.28
+2026-05,Sales & Marketing,Revenue,590093.0,79997.32,510095.68,637.64
+2026-06,Sales & Marketing,Revenue,371057.38,79303.15,291754.23,367.9
+2026-07,Sales & Marketing,Revenue,491723.25,78212.76,413510.49,528.7
